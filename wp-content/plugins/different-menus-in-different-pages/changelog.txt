@@ -1,0 +1,49 @@
+
+== Changelog ==
+
+= 2.1.4 - 17 May 2020 =
+* Fixed notices not closing issue.
+* Fixed wrong menu appearing issue in template pages.
+
+= 2.1.2 - 14 April 2020 =
+* Fixed general tab not working issue
+* Other plugin breaking issue such as smtp plugins
+
+= 2.1.1 - 10 April 2020 =
+* Fixed general tab not working issue
+
+= 2.1.0 - 10 April 2020 =
+* Added parent category and sub category post's menu visibility system
+* Added parent pages and sub pages menu visibility system
+* Fixed javascript breaking issue
+
+= 1.0.8 =
+* Added trial version download button.
+
+= 1.0.7 =
+* Increase different menus limit.
+
+= 1.0.6 =
+* Added "Check all" option in condition tabs.
+
+= 1.0.5 =
+* Fixed indexing issue.
+
+= 1.0.4 - 16 September 2019 =
+* Fixed saved page showing issue while changing pagination.
+
+= 1.0.3 - 10 September 2019 =
+* Fixed page selection issue while changing pagination.
+* Added Menu Duplicator option in plugin settings page and in menu page .
+* Added Menu Duplicator screenshot.
+
+= 1.0.2 - 5 July 2019 =
+* Fixed mobile modal disappeared issue.
+
+= 1.0.1 - 2 July 2019 =
+* Added different menu for devices option in settings page. It will really help set different menus in different device.
+
+= 1.0.0 - 30 June 2019 =
+* Initialize the plugin
+
+
